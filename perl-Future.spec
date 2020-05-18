@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pnam	Future
 Summary:	Future - represent an operation awaiting completion
 Name:		perl-Future
